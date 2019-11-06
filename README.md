@@ -42,4 +42,7 @@ model.ipynb: classification task based on different cnn architectures.
 
 result_images: contains models graphs and plots
 
+# Classification methods:
+I used three CNN models and a LSTM model for classification. You can find the models and the results in model.ipynb
+
 
