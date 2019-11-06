@@ -7,9 +7,12 @@ The Samples recorded by 4 speakers with English pronunciations and there are tot
 
 Files are named in the following format: {digitLabel}_{speakerName}_{index}.wav Example: 7_jackson_32.wav
 
-recordings: all audio samples are stored in this folder – 2000 wav files
+If you want to know more about how dataset is created and contribute to creating more data please check the below repository:
+
+https://github.com/Jakobovski/free-spoken-digit-dataset
 
 # Files/Folders Information
+recordings: all audio samples are stored in this folder – 2000 wav files
 spectrograms: audio images (audio spectrograms)
 acquire_data/say_numbers_promp.py: File saying how record the spoken digits
 acquire_data/split_and_label_numbers.py: File for splitting the original file and labeling the sample files
